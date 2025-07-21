@@ -119,8 +119,8 @@
       <td style="text-align: center;">Dacon</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Scholar Excellence Award</td>
-      <td>학부 성적 장학금</td>
+      <td style="text-align: center;">성적장학금</td>
+      <td>학부 성적 장학금 (2022-2, 2023-1, 2023-2, 2024-1, 2024-2학기)</td>
       <td style="text-align: center;">인하대학교</td>
     </tr>
     <tr>
