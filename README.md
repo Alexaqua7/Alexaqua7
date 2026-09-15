@@ -4,14 +4,33 @@
 </div>
 
 ---
+👋 About Me
+조선해양공학을 전공하고 AI / Deep Learning을 활용한 문제 해결에 관심을 가지고 있습니다.
 
+현재 서울대학교 조선해양공학과 석사과정에서 수중음향 연구를 수행하고 있으며,
+Computer Vision, Deep Learning 및 Data Science 분야의 프로젝트 경험을 쌓아가고 있습니다.
+
+특히 조선해양공학 분야의 도메인 지식과 AI 기술을 결합하는 것에 관심이 있습니다.
+
+---
 <div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2>
+
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    인하대학교 (Inha University)  
+    서울대학교 / 석사 (Seoul National University / Master's Degree)
     <br><br> 전공: 조선해양공학과
-    <br> GPA: 4.17 / 4.5  
-</div> 
+    <br> 2026.03 - 현재
+</div>
+
+<br>
+
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    인하대학교 / 학사 (Inha University / Bachelor's Degree)
+    <br><br> 전공: 조선해양공학과
+    <br> GPA: 4.17 / 4.5
+    <br> 2019.03 - 2025.02
+</div>
+
 </div>
 
 ---
@@ -145,6 +164,16 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">정보처리기사</td>
+      <td style="text-align: center;">한국산업인력공단</td>
+      <td style="text-align: center;">2026.09.11</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">NCP Certified Expert – AI</td>
+      <td style="text-align: center;">네이버 클라우드 플랫폼</td>
+      <td style="text-align: center;">2025.03.26</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">OPIc (English) – IH</td>
       <td style="text-align: center;">ACTFL</td>
       <td style="text-align: center;">2024.05.22</td>
@@ -153,11 +182,6 @@
       <td style="text-align: center;">컴퓨터 활용능력 1급</td>
       <td style="text-align: center;">대한상공회의소</td>
       <td style="text-align: center;">2022.02.04</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">NCP Certified Expert – AI</td>
-      <td style="text-align: center;">네이버 클라우드 플랫폼</td>
-      <td style="text-align: center;">2025.03.26</td>
     </tr>
   </tbody>
 </table>
